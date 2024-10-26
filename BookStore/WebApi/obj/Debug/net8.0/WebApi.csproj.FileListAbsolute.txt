@@ -31,3 +31,4 @@ C:\Github Repo\BookStore-WebApi\BookStore\WebApi\obj\Debug\net8.0\refint\WebApi.
 C:\Github Repo\BookStore-WebApi\BookStore\WebApi\obj\Debug\net8.0\WebApi.pdb
 C:\Github Repo\BookStore-WebApi\BookStore\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
 C:\Github Repo\BookStore-WebApi\BookStore\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\Github Repo\BookStore-WebApi\BookStore\WebApi\obj\Debug\net8.0\WebApi.sourcelink.json
